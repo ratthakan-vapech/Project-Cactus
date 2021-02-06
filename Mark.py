@@ -1,2 +1,0 @@
-print("Ratthakan")
-print("witchakon")
